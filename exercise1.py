@@ -4,4 +4,7 @@ print("Here is some changes")
 
 print()
 
-#another changes
+a = 6
+b = 8
+c = a + b
+print(c)
